@@ -1,9 +1,11 @@
 # Maratona-Explorer2.0
 
-![image](https://user-images.githubusercontent.com/105132452/190491178-7044df03-3fb9-4acc-8181-35cd81fd995a.png)
+![image](https://user-images.githubusercontent.com/105132452/191086119-dc6a366e-7029-4c1f-9504-e0f14163703d.png)
+
+> Maratona Explorer edição 2.0 da Rocketseat.
 ## Sobre o projeto:
 
-Calculadora que compara o valor entre o álcool e a gasolina, e mostra qual combustível vale mais a pena abastecer. 
+Projeto desenvolvido na maratona Explorer da Rocketseat, onde você coloca sua pergunta e é retornado uma resposta aleatória. 
 
 [🔗 Clique aqui para acessar](https://AndersonRodrigs.github.io/MaratonaEX/)
 

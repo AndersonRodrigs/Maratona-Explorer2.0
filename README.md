@@ -1,4 +1,4 @@
-# MaratonaEX
+# Maratona-Explorer2.0
 
 ![image](https://user-images.githubusercontent.com/105132452/190491178-7044df03-3fb9-4acc-8181-35cd81fd995a.png)
 ## Sobre o projeto:

@@ -7,7 +7,7 @@
 
 Projeto desenvolvido na maratona Explorer da Rocketseat, onde você coloca sua pergunta e é retornado uma resposta aleatória. 
 
-[🔗 Clique aqui para acessar](https://AndersonRodrigs.github.io/MaratonaEX/)
+[🔗 Clique aqui para acessar](https://andersonrodrigs.github.io/Maratona-Explorer2.0/)
 
 ## 🛠 Tecnologias utilizadas:
 
